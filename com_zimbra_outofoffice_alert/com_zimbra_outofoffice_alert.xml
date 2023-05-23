@@ -1,0 +1,4 @@
+<zimlet name="com_zimbra_outofoffice_alert" version="0.0.1" description="Display an alert when composing an email when someone in the To field has an active out of office reply." target="main view-window">
+  <include>com_zimbra_outofoffice_alert.js</include>
+  <handlerObject>com_zimbra_outofoffice_alert_HandlerObject</handlerObject>
+</zimlet>
